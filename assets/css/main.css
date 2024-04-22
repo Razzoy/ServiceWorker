@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1{
+    text-align: center;
+    margin: 2vw;
+    padding: 0;
+    font-size: 6vw;
+    padding-top: 10vw;
+}
+
+#swChecker{
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+}
+
+figure{
+    margin: 0 30vw;
+    padding: 0;
+    border: 2px solid black;
+}
+
+p{
+    text-align: center;
+}
+
+.chkPending {
+    background-color: yellow;
+    color: black;
+}
+
+.chkTrue{
+    background-color: limegreen;
+    color: white;
+}
+
+.chkFalse{
+    background-color: red;
+    color: yellow;
+}
