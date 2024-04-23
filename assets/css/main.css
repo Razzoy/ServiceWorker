@@ -1,7 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #cecece;
 }
 
 h1{
@@ -19,9 +20,8 @@ h1{
 }
 
 figure{
-    margin: 0 30vw;
+    margin: 30vw;
     padding: 0;
-    border: 2px solid black;
 }
 
 p{
